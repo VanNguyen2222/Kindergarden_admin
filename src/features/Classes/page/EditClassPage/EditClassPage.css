@@ -1,0 +1,40 @@
+
+.date-time{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.date-time input{
+    height: 40px;
+    border-radius: 6px;
+    width: 150px;
+    border-color: lightgray;
+    font-size: 15px;
+
+}
+.date-alert{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+.classEdit{
+    margin-bottom: 20px;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.time-hour{
+    width: 115px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 7px;
+    outline: none;
+    border-color: lightgray
+}
+.time-link{
+    cursor: pointer;
+}
